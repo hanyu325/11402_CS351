@@ -6,7 +6,8 @@ This repository contains my coursework and projects completed in the AI-assisted
 
 **Website URL:**
 https://hanyu325.github.io/
-
+**Repository:**
+[Website Repository](https://github.com/hanyu325/hanyu325.github.io.git)
 A personal portfolio website built with HTML and CSS, featuring a glassmorphism-inspired design, responsive layouts, and bilingual (Chinese/English) support.
 
 ---
